@@ -1,6 +1,9 @@
 ---
 title: Reasonable Use Policy
 description: In order to maintain a high level of performance and quality for all our users, we have to set some boundaries
+lastUpdated: 2023-04-15
+icon: gauge
+order: 14
 ---
 
 # Reasonable Use Policy
@@ -26,7 +29,7 @@ We know that your data storage needs may change over time, but to keep things ru
 
 ## 4. Object Types: Variety is the Spice of Life, to a Point
 
-We encourage you to explore the versatility of our platform, but let's not get too carried away. In order to maintain a balanced and efficient system, we're limiting the number of object types to 50 per account. To put this into perspective, most of the [applications in our library](https://engineawesome.com/applications) use four object types, so you have plenty of room for creativity and customization without bogging down the system.
+We encourage you to explore the versatility of our platform, but let's not get too carried away. In order to maintain a balanced and efficient system, we're limiting the number of object types to 50 per account. To put this into perspective, most of the [applications in our library](/templates/) use four object types, so you have plenty of room for creativity and customization without bogging down the system.
 
 Now, with these rules in place, we're all set to create some amazing applications together! If you ever have any questions or concerns, don't hesitate to reach out to our [support team](https://engineawesome.com/support/). We're always here to help.
 

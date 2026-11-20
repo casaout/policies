@@ -1,6 +1,10 @@
 ---
-title: 'Security Response'
-description: 'Have you discovered a web security flaw that might impact one of our products? Here’s how you can report it.'
+title: "Security Response"
+description: "Have you discovered a web security flaw that might impact one of our products? Here is how you can report it."
+lastUpdated: 2026-11-20
+icon: "alert-triangle"
+order: 13
+meta_description: "Found a security flaw that might affect an Engine Awesome product? Here's how to report it responsibly to our team, and what to expect from us."
 ---
 
 # Security response
@@ -11,9 +15,9 @@ Keeping customer data safe and secure is a huge responsibility and a top priorit
 
 ## Reporting security problems
 
-**Report security vulnerabilities** via email to [Timothy directly](mailto:me@timothybjacobs.com). If you feel it necessary, you can send your email via PGP to keep your message safe and please provide us with a secure way to respond. We’ll respond as soon as we can. Please follow up or [ping us on Twitter](https://twitter.com/engineawesome) if you don’t hear back.
+**Report security vulnerabilities** via email to [security@engineawesome.com](mailto:security@engineawesome.com). If you feel it necessary, you can send your email via PGP to keep your message safe and please provide us with a secure way to respond. We'll respond as soon as we can.
 
-**For requests that aren’t urgent or sensitive**: submit a [support request](https://engineawesome.com/support/).
+**For requests that aren't urgent or sensitive**: submit a [support request](https://engineawesome.com/support/).
 
 ## Thanks for working with us
 

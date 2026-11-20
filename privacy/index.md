@@ -1,11 +1,15 @@
 ---
 title: Privacy policy
-description: The privacy of your data — and it is your data, not ours! — is a big deal to us. Here’s the rundown of what we collect and why, when we access your information, and your rights.
+description: The privacy of your data — and it is your data, not ours! — is a big deal to us. Here's the rundown of what we collect and why, when we access your information, and your rights.
+lastUpdated: 2026-11-20
+icon: shield
+order: 6
+meta_description: "Your data is yours, not ours. Here's what Engine Awesome collects and why, when we access your information, and your privacy rights."
 ---
 
 # Privacy policy
 
-*Last updated: December 23, 2023*
+*Last updated: November 20, 2026*
 
 The privacy of your data—and it is your data, not ours!—is a big deal to us. In this policy, we lay out: what data we collect and why; how your data is handled; and your rights with respect to your data. We promise we never sell your data: never have, never will.
 
@@ -13,21 +17,29 @@ This policy applies to all products built and maintained by Engine Awesome LLC.
 
 ## What we collect and why
 
-Our guiding principle is to collect only what we need. Here’s what that means in practice:
+Our guiding principle is to collect only what we need. Here's what that means in practice:
 
 ### Identity & access
 
-When you sign up for a Engine Awesome product, we ask for identifying information such as your name, email address, and maybe a company name. That’s so you can personalize your new account, and we can send you product updates and other essential information. We may also send you optional surveys from time to time to help us understand how you use our products and to make improvements. With your consent, we will send you our newsletter and other updates. We sometimes also give you the option to add a profile picture that displays in our products.
+When you sign up for an Engine Awesome product, we ask for identifying information such as your name, email address, and maybe a company name. That's so you can personalize your new account, and so we can send you the emails that come with having an account: sign-in and security messages, billing receipts, and notices about changes to the service or these policies. Every account holder gets these.
 
-We’ll never sell your personal information to third parties, and we won’t use your name or company in marketing statements without your permission either.
+News, tips, and our newsletter are separate. We only send them if you check the box to receive them, and you can unsubscribe at any time from the link in any of those emails. We may also send you optional surveys from time to time to help us understand how you use our products and to make improvements. We sometimes also give you the option to add a profile picture that displays in our products.
+
+We'll never sell your personal information to third parties, and we won't use your name or company in marketing statements without your permission either.
 
 ### Billing information
 
-If you sign up for a paid Engine Awesome product, you will be asked to provide your payment information and billing address. Credit card information is submitted directly to our payment processor and doesn’t hit Engine Awesome servers. We store a record of the payment transaction, including the last 4 digits of the credit card number, for purposes of account history, invoicing, and billing support. We store your billing address so we can charge you for service, calculate any sales tax due, send you invoices, and detect fraudulent credit card transactions. We occasionally use aggregate billing information to guide our marketing efforts.
+If you sign up for a paid Engine Awesome product, you will be asked to provide your payment information and billing address. Credit card information is submitted directly to our payment processor and doesn't hit Engine Awesome servers. We store a record of the payment transaction, including the last 4 digits of the credit card number, for purposes of account history, invoicing, and billing support. We store your billing address so we can charge you for service, calculate any sales tax due, send you invoices, and detect fraudulent credit card transactions. We occasionally use aggregate billing information to guide our marketing efforts.
 
 ### Product interactions
 
-We store on our servers the content that you upload or receive or maintain in your Engine Awesome product accounts. This is so you can use our products as intended, for example, to create contacts. We keep this content as long as your account is active. If you delete your account, we’ll delete the content within 60 days. 
+We store on our servers the content that you upload or receive or maintain in your Engine Awesome product accounts. This is so you can use our products as intended, for example, to create contacts. We keep this content as long as your account is active. If you delete your account, we'll delete the content within 60 days.
+
+We also record how you use our products, such as when you sign in and when you create records, along with your name, email address, profile photo, and who invited you, so we can understand which features are used and improve them. We use a product analytics service for this, listed in our [subprocessors](/about/policies/subprocessors/).
+
+### Error monitoring
+
+When something goes wrong in one of our products, we collect details about the error so we can fix it, such as the page you were on, your browser, and what the app was doing. When an error happens in your browser, we also keep a recording of that session leading up to the error, with the text on the page and what you type masked, so we can see what went wrong. Our application monitoring also records the database queries our servers run, which can include values from your content. We keep this information only as long as we need it to find and fix problems.
 
 ### Geolocation data
 
@@ -39,7 +51,7 @@ We collect information about your browsing activity for analytics and statistica
 
 ### Google API Services Usage Disclosure
 
-Engine Awesome's use and transfer to any other app of information received from Google APIs will adhere to [Google API Services User Data Policy](https://developers.google.com/terms/api-services-user-data-policy#additional_requirements_for_specific_api_scopes), including the Limited Use requirements.
+Engine Awesome's use and transfer to any other app of information received from Google APIs will adhere to [Google API Services User Data Policy](https://developers.google.com/terms/api-services-user-data-policy#additional_requirements_for_specific_api_scopes), including the Limited Use requirements.
 
 ### Anti-bot assessments
 
@@ -49,9 +61,9 @@ We use third-party [CAPTCHA](https://en.wikipedia.org/wiki/CAPTCHA) services acr
 
 Engine Awesome may run contextual ads on various third-party platforms such as Google, Reddit, LinkedIn and others. Users who click on one of our ads will be sent to the Engine Awesome marketing site. Where permissible under law, we may load an ad-company script on their browsers that sets a third-party cookie and sends information to the ad network to enable evaluation of the effectiveness of our ads, e.g., which ad they clicked and which keyword triggered the ad, and whether they performed certain actions such as clicking a button or submitting a form.
 
-We also use persistent first-party cookies and some third-party cookies to store certain preferences, make it easier for you to use our applications, and perform A/B testing as well as support some analytics. 
+We also use persistent first-party cookies and some third-party cookies to store certain preferences, make it easier for you to use our applications, and perform A/B testing as well as support some analytics.
 
-A cookie is a piece of text stored by your browser. It may help remember login information and site preferences. It might also collect information such as your browser type, operating system, web pages visited, duration of visit, content viewed, and other click-stream data. You can adjust cookie retention settings and accept or block individual cookies in your browser settings, although our apps won’t work and other aspects of our service may not function properly if you turn cookies off.
+A cookie is a piece of text stored by your browser. It may help remember login information and site preferences. It might also collect information such as your browser type, operating system, web pages visited, duration of visit, content viewed, and other click-stream data. You can adjust cookie retention settings and accept or block individual cookies in your browser settings, although our apps won't work and other aspects of our service may not function properly if you turn cookies off.
 
 ### Voluntary correspondence
 
@@ -65,27 +77,27 @@ We may offer optional desktop and mobile apps for some of our products. Because 
 
 ## When we access or share your information
 
-**To provide products or services you’ve requested**.TODO We use some [third-party subprocessors](https://engineawesome.com/about/policies/privacy-policy/subprocessors/) to help run our applications and provide the Services to you. We also use third-party processors for other business functions such as managing newsletter subscriptions, sending customer surveys, and providing our company storefront. You can view the list at [Company processors](https://engineawesome.com/about/policies/privacy-policy/company-processors/).
+**To provide products or services you've requested.** We use some [third-party subprocessors](/about/policies/subprocessors/) to help run our applications and provide the Services to you. We also use third-party processors for other business functions such as managing newsletter subscriptions, sending customer surveys, and providing our company storefront. You can view the list at [Company processors](/about/policies/company-processors/).
 
 We may share your information at your direction if you integrate a third-party service into your use of our products.
 
-No Engine Awesome human looks at your content except for limited purposes with your express permission, for example, if an error occurs that stops an automated process from working and requires manual intervention to fix. These are rare cases, and when they happen, we look for root cause solutions as much as possible to avoid them recurring. We may also access your data if required in order to respond to legal process (see “When required under applicable law” below).
+No Engine Awesome human looks at your content except for limited purposes, for example, with your express permission to help with a support case, or if an error occurs that stops an automated process from working and requires manual intervention to fix, which can include reviewing the error monitoring described above. These are rare cases, and when they happen, we look for root cause solutions as much as possible to avoid them recurring. We may also access your data if required in order to respond to legal process (see "When required under applicable law" below).
 
 **To exclude you from seeing our ads.** Where permissible by law and if you have an Engine Awesome account, we may share a one-way hash of your email address with ad companies to exclude you from seeing our ads.
 
 **To help you troubleshoot or squash a software bug, with your permission.** If at any point we need to access your content to help you with a support case, we will ask for your consent before proceeding.
 
-**To investigate, prevent, or take action regarding [restricted uses](https://engineawesome.com/about/policies/abuse/).** Accessing a customer’s account when investigating potential abuse is a measure of last resort. We want to protect the privacy and safety of both our customers and the people reporting issues to us, and we do our best to balance those responsibilities throughout the process. If we discover you are using our products for a restricted purpose, we will take action as necessary, including notifying appropriate authorities where warranted.
+**To investigate, prevent, or take action regarding [restricted uses](/about/policies/use-restrictions/).** Accessing a customer's account when investigating potential abuse is a measure of last resort. We want to protect the privacy and safety of both our customers and the people reporting issues to us, and we do our best to balance those responsibilities throughout the process. If we discover you are using our products for a restricted purpose, we will take action as necessary, including notifying appropriate authorities where warranted.
 
 **When required under applicable law.**
 
 Engine Awesome LLC. is a U.S. company and all data infrastructure are located in the U.S.
 
-* Requests for user data. Our policy is to not respond to government requests for user data unless we are compelled by legal process or in limited circumstances in the event of an emergency request. However, if U.S. law enforcement authorities have the necessary warrant, criminal subpoena, or court order requiring us to share data, we must comply. Likewise, we will only respond to requests from government authorities outside the U.S. if compelled by the U.S. government through procedures outlined in a mutual legal assistance treaty or agreement. It is Engine Awesomes’ policy to notify affected users before we share data unless we are legally prohibited from doing so, and except in some emergency cases. 
-* Preservation requests. Similarly, Engine Awesomes’ policy is to comply with requests to preserve data only if compelled by the U.S. Federal Stored Communications Act, 18 U.S.C. Section 2703(f), or by a properly served U.S. subpoena for civil matters. We do not share preserved data unless required by law or compelled by a court order that we choose not to appeal. Furthermore, unless we receive a proper warrant, court order, or subpoena before the required preservation period expires, we will destroy any preserved copies of customer data at the end of the preservation period.
+* Requests for user data. Our policy is to not respond to government requests for user data unless we are compelled by legal process or in limited circumstances in the event of an emergency request. However, if U.S. law enforcement authorities have the necessary warrant, criminal subpoena, or court order requiring us to share data, we must comply. Likewise, we will only respond to requests from government authorities outside the U.S. if compelled by the U.S. government through procedures outlined in a mutual legal assistance treaty or agreement. It is Engine Awesome's policy to notify affected users before we share data unless we are legally prohibited from doing so, and except in some emergency cases.
+* Preservation requests. Similarly, Engine Awesome's policy is to comply with requests to preserve data only if compelled by the U.S. Federal Stored Communications Act, 18 U.S.C. Section 2703(f), or by a properly served U.S. subpoena for civil matters. We do not share preserved data unless required by law or compelled by a court order that we choose not to appeal. Furthermore, unless we receive a proper warrant, court order, or subpoena before the required preservation period expires, we will destroy any preserved copies of customer data at the end of the preservation period.
 * If we are audited by a tax authority, we may be required to share billing-related information. If that happens, we will share only the minimum needed, such as billing addresses and tax exemption information.
 
-Finally, if Engine Awesome LLC. is acquired by or merges with another company — we don’t plan on that, but if it happens — we’ll notify you well before any of your personal information is transferred or becomes subject to a different privacy policy.
+Finally, if Engine Awesome LLC. is acquired by or merges with another company — we don't plan on that, but if it happens — we'll notify you well before any of your personal information is transferred or becomes subject to a different privacy policy.
 
 ## Your rights with respect to your information
 
@@ -94,7 +106,7 @@ At Engine Awesome, we strive to apply the same data rights to all customers, reg
 * **Right to Know.** You have the right to know what personal information is collected, used, shared or sold. We outline both the categories and specific bits of data we collect, as well as how they are used, in this privacy policy.
 * **Right of Access.** This includes your right to access the personal information we gather about you, and your right to obtain information about the sharing, storage, security and processing of that information.
 * **Right to Correction.** You have the right to request correction of your personal information.
-* **Right to Erasure / “To Be Forgotten”.** This is your right to request, subject to certain limitations under applicable law, that your personal information be erased from our possession and, by extension, from all of our service providers. Fulfillment of some data deletion requests may prevent you from using Engine Awesome services because our applications may then no longer work. In such cases, a data deletion request may result in closing your account.
+* **Right to Erasure / "To Be Forgotten".** This is your right to request, subject to certain limitations under applicable law, that your personal information be erased from our possession and, by extension, from all of our service providers. Fulfillment of some data deletion requests may prevent you from using Engine Awesome services because our applications may then no longer work. In such cases, a data deletion request may result in closing your account.
 * **Right to Complain.** You have the right to make a complaint regarding our handling of your personal information with the appropriate supervisory authority.
 * **Right to Restrict Processing.** This is your right to request restriction of how and why your personal information is used or processed, including opting out of sale of personal information. (Again: we never have and never will sell your personal data.)
 * **Right to Object.** You have the right, in certain situations, to object to how or why your personal information is processed.
@@ -104,13 +116,13 @@ At Engine Awesome, we strive to apply the same data rights to all customers, reg
 
 Many of these rights can be exercised by signing in and updating your account information.
 
-If you have questions about exercising these rights or need assistance, please [contact us](https://engineawesome.com/support/). or at Engine Awesome LLC, 421 8th Avenue #859 New York NY 10116 USA. If an authorized agent is corresponding on your behalf, we will need written consent with a signature from the account holder before proceeding.
+If you have questions about exercising these rights or need assistance, please [contact us](https://engineawesome.com/support/) or write to us at Engine Awesome LLC, 421 8th Avenue #859 New York NY 10116 USA. If an authorized agent is corresponding on your behalf, we will need written consent with a signature from the account holder before proceeding.
 
 If you are in the EU or UK, you can contact your data protection authority to file a complaint or learn more about local privacy laws.
 
 ## How we secure your data
 
-All data is encrypted via [SSL/TLS](https://en.wikipedia.org/wiki/Transport_Layer_Security) when transmitted from our servers to your browser. The database backups are also encrypted. In addition, we go to great lengths to secure your data at rest. For more information about how we keep your information secure, please review our [security overview](https://engineawesome.com/about/policies/security/).
+All data is encrypted via [SSL/TLS](https://en.wikipedia.org/wiki/Transport_Layer_Security) when transmitted from our servers to your browser. The database backups are also encrypted. In addition, we go to great lengths to secure your data at rest. For more information about how we keep your information secure, please review our [security overview](/about/policies/security/).
 
 Most data is not encrypted while they live in our database (since they need to be ready to send to you when you need them).
 
@@ -118,7 +130,7 @@ Most data is not encrypted while they live in our database (since they need to b
 
 In many of our applications, we give you the option to trash content. Anything you trash in your product accounts while they are active will be kept for 30 days. After that time, the trashed content cannot be accessed via the application and we are not able to retrieve it for you. The trashed content may remain on our active servers for another 30 days, and copies of the content may be held in backups of our application databases for up to another 30 days after that. Altogether, any content trashed in your product accounts should be purged from all of our systems and logs within 90 days.
 
-If you choose to cancel your account, your content will become immediately inaccessible and should be purged from our systems in full within 60 days. This applies both for cases when an account owner directly cancels and for auto-cancelled accounts. Please refer to our [Cancellation policy](https://engineawesome.com/about/policies/cancellations/) for more details.
+If you cancel your subscription, your team is locked and its content is kept, so you can subscribe again later. If you delete a team, its content will become immediately inaccessible and should be purged from our systems in full within 60 days. This applies both for cases when a team owner directly deletes a team and for accounts we cancel. Please refer to our [Cancellation policy](/about/policies/cancellations/) for more details.
 
 ## Location of site and data
 
@@ -126,7 +138,7 @@ Our products and other web properties are operated in the United States. If you 
 
 ## When transferring personal data from the EU
 
-The European Data Protection Board (EDPB) has issued guidance that personal data transferred out of the EU must be treated with the same level of protection that is granted under EU privacy law. UK law provides similar safeguards for UK user data that is transferred out of the UK. Accordingly, Engine Awesome has adopted a data processing addendum with Standard Contractual Clauses to help ensure this protection. Engine Awesome’s DPA is available at [https://engineawesome.com/wp-content/uploads/2022/09/Engine_Awesome_Data_Processing_Addendum_v202209.pdf](https://engineawesome.com/wp-content/uploads/2022/09/Engine_Awesome_Data_Processing_Addendum_v202209.pdf).
+The European Data Protection Board (EDPB) has issued guidance that personal data transferred out of the EU must be treated with the same level of protection that is granted under EU privacy law. UK law provides similar safeguards for UK user data that is transferred out of the UK.
 
 There are also a few ad hoc cases where EU personal data may be transferred to the U.S. in connection with Engine Awesome LLC operations, for instance, if an EU user signs up for our newsletter or participates in one of our surveys or buys swag from our company online store. Such transfers are only occasional and data is transferred under the [Article 49(1)(b) derogation](https://gdpr-info.eu/art-49-gdpr/) under GDPR and the UK version of GDPR.
 
@@ -134,4 +146,4 @@ There are also a few ad hoc cases where EU personal data may be transferred to t
 
 We may update this policy as needed to comply with relevant regulations and reflect any new practices. You can view a history of the changes to our policies [on GitHub](https://github.com/engineawesome/policies/commits/master). Whenever we make a significant change to our policies, we will refresh the date at the top of this page and take any other appropriate steps to notify users.
 
-Have any questions, comments, or concerns about this privacy policy, your data, or your rights with respect to your information? Please get [in touch](https://engineawesome.com/support/) and we’ll be happy to try to answer them!
+Have any questions, comments, or concerns about this privacy policy, your data, or your rights with respect to your information? Please get [in touch](https://engineawesome.com/support/) and we'll be happy to try to answer them!

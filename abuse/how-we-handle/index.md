@@ -1,21 +1,25 @@
 ---
 title: How we handle abusive usage
 description: Guiding principles and process for investigating abuse reports
+lastUpdated: 2026-11-20
+icon: shield-alert
+order: 15
+meta_description: "The guiding principles and process Engine Awesome follows when investigating abuse reports: human oversight, balanced responsibility, and evidence."
 ---
 
 # How we handle abusive usage
 
-*Last updated: August 27, 2022*
+*Last updated: November 20, 2026*
 
 We build our products* to give teams a better way to work. We are proud of that purpose and trust that our customers use our products for appropriate endeavors.
 
-Sometimes, though, we discover potential abusive usage as detailed in our [Use Restrictions policy](https://engineawesome.com/about/policies/abuse). When that happens, we investigate using the following guiding principles and process.
+Sometimes, though, we discover potential abusive usage as detailed in our [Use Restrictions policy](/about/policies/use-restrictions/). When that happens, we investigate using the following guiding principles and process.
 
 ## Guiding Principles
 
 ### Human oversight
 
-Who’s “we”, you ask? It’s us: folks from the Engine Awesome team. Our internal abuse oversight committee includes our executives, Steve and Timothy. On rare occasions for particularly sensitive situations or if legally required, we may also seek counsel from external experts.
+Who's "we", you ask? It's us: folks from the Engine Awesome team. Our internal abuse oversight committee is made up of our leadership team. On rare occasions for particularly sensitive situations or if legally required, we may also seek counsel from external experts.
 
 ### Balanced responsibilities
 
@@ -37,9 +41,9 @@ Every case goes through the same general process:
 
 From our experience, we learn about potential abuse because:
 
-- Someone alerts us. We give [abuse reports](https://engineawesome.com/about/policies/abuse) our full care and attention. Our Support team also responds to every question or comment that comes in. If we notice anything in those emails that points to a violation, we will look into it.
+- Someone alerts us. We give [abuse reports](/about/policies/use-restrictions/) our full care and attention. Our Support team also responds to every question or comment that comes in. If we notice anything in those emails that points to a violation, we will look into it.
 - We notice an anomaly in our business operations monitoring. We monitor a range of things about our products, like signup volume and error rates of web requests. If we see something weird with those numbers, we get to the bottom of it.
-- We stumble upon public web content that links an individual or organization to an Engine Awesome product. We aren’t scouring the Internet looking for those links, but if we do come across any, we check them out.
+- We stumble upon public web content that links an individual or organization to an Engine Awesome product. We aren't scouring the Internet looking for those links, but if we do come across any, we check them out.
 
 This list is not exhaustive; there are always edge cases. We will update the list if we find regular new avenues.
 
@@ -48,7 +52,7 @@ This list is not exhaustive; there are always edge cases. We will update the lis
 We focus on the evidence:
 
 - Language and imagery used by users on the account
-- Evidence of account users’ power and/or ability to act on spoken claims
+- Evidence of account users' power and/or ability to act on spoken claims
 - Publicly available information about account users
 
 We strive to balance privacy and safety for all those involved:
@@ -63,7 +67,7 @@ While some violations are flatly obvious, others are subjective, nuanced, and di
 
 We will terminate an account without advance notice if there is evidence it is being used for a restricted purpose that has, is, or will cause severe harm. If applicable, we will also report the incident to the appropriate authorities.
 
-For other cases, we’ll take a case-by-case approach to clear things up.
+For other cases, we'll take a case-by-case approach to clear things up.
 
 Further, as a small, privately owned independent business that puts our values and conscience ahead of growth at all costs, we reserve the right to deny service to anyone we ultimately feel uncomfortable doing business with.
 
